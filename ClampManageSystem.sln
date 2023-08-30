@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClampManageSystem", "StudentManagerPro\ClampManageSystem.csproj", "{B4AD7652-30B4-49A1-BB63-CA6357FB3699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{C58270AB-3C17-4B62-BF4E-537ADE88F9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{99FDED9E-5611-4B31-9C5C-EC11C6946438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AD7652-30B4-49A1-BB63-CA6357FB3699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AD7652-30B4-49A1-BB63-CA6357FB3699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AD7652-30B4-49A1-BB63-CA6357FB3699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AD7652-30B4-49A1-BB63-CA6357FB3699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58270AB-3C17-4B62-BF4E-537ADE88F9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58270AB-3C17-4B62-BF4E-537ADE88F9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58270AB-3C17-4B62-BF4E-537ADE88F9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58270AB-3C17-4B62-BF4E-537ADE88F9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FDED9E-5611-4B31-9C5C-EC11C6946438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FDED9E-5611-4B31-9C5C-EC11C6946438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FDED9E-5611-4B31-9C5C-EC11C6946438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FDED9E-5611-4B31-9C5C-EC11C6946438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6EEC2D-16C4-469E-AA66-DC90C974A32C}
+	EndGlobalSection
+EndGlobal
